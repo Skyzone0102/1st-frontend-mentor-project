@@ -15,5 +15,5 @@
 .DS_Store
 .prettierignore
 
-design
-.vscode
+/design
+/.vscode
